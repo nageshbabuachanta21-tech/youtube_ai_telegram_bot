@@ -260,7 +260,7 @@ README.md
 
 ## 👨‍💻 Author
 
-Rama Krishna
+Nagesh babu
 B.Tech Student – AI/Software Engineering Enthusiast
 
 ---
